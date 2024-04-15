@@ -15,6 +15,5 @@ function carregar(){
         //Boa noite
         img.src = "/Aula12ex/fotos/ftnoite.jpg"
         document.body.style.background = '#0B0B0D'
-    }
-    
+    }    
 }
